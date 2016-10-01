@@ -21,5 +21,7 @@ testing out some basic stuffs
 4. go to localhost:3000/news to see an example of querying the webhose api. 
   * for best results make sure you have the JSON Formatter Chrome Extension installed and enabled
   * don't make too many requests because i only get 1000 per month
+  
+5. go to localhost:3000/news/more-advanced for a more advanced search
 
 
