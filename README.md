@@ -1,2 +1,2 @@
 # translator-api-test
-just testing out some basic stuffs
+testing out some basic stuffs
