@@ -3,15 +3,15 @@ testing out some basic stuffs
 
 ## instructions
 1. type these things into the command line
-```
-git clone git@github.com:rrj221/translator-api-test.git
+  ```
+  git clone git@github.com:rrj221/translator-api-test.git
 
-cd translator-api-test
+  cd translator-api-test
 
-npm install
+  npm install
 
-nodemon bin/app.js
-```
+  nodemon bin/app.js
+  ```
 
 2. go to localhost:3000 for the home page
 
