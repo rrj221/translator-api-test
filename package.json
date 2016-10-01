@@ -14,6 +14,8 @@
     "hbs": "~4.0.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
+    "unirest": "^0.5.1",
+    "webhose-nodejs": "^0.1.4",
     "yandex-translate": "^2.1.0"
   }
 }
