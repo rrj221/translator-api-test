@@ -9,5 +9,6 @@ var Router = require('react-router')
 
 // Create the Main component
 var Main = React.createClass({
+})
 
   

@@ -4,9 +4,9 @@ var unirest = require('unirest');
 var translate = require('yandex-translate')('trnsl.1.1.20161001T021445Z.1b7df2e80a455a66.3994daff49605b8440ef8870db72268bebd2b91a');
 
 // Reference the high-level components
-var Main = require('../components/Main');
-var Search = require('../components/Search'); 
-var Saved = require('../components/Saved');
+// var Main = require('/app/components/Main');
+// var Search = require('/app/components/Search'); 
+// var Saved = require('/app/components/Saved');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
